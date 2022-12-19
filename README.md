@@ -13,7 +13,7 @@
 <a href="https://steamcommunity.com/id/oyuncaztv/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://open.spotify.com/user/	zt0je2qgjds3x2ejwnaa2kf5b" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.instagram.com/kerima.exe/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://discord.com/invite/badu" target"blank_"><img src="https://img.shields.io/discord/706851849705095182?style=for-the-badge&color=7289da&label=flundar&logo=node.js&logoColor=white"></a>
+<a href="https://discord.com/invite/badu" target"blank_"><img src="https://img.shields.io/discord/706851849705095182?style=for-the-badge&color=7289da&label=Oyuncaz&logo=node.js&logoColor=white"></a>
 <br>
 </p>
 
